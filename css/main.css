@@ -1,0 +1,54 @@
+p{
+  font-family: 'Ranga', cursive;
+  font-size: 25px;
+}
+h1,h2,h3,h4,h5,h6{
+  font-family: 'Baloo Bhaina', cursive;
+}
+.redcd_jb{
+  width: 75%;
+  margin: 2% auto;
+  padding-top: 2%;
+}
+ .row{
+  margin: 2% auto;
+}
+.navbar{
+  margin-botton: 0;
+  border: 0;
+  font-size: 14px !important;
+  border-radius: 0;
+}
+.navbar-custom{
+  background-color:#228B22;
+}
+.bg-green{
+  background-color:#228B22;
+  color:#FFF;
+}
+
+.bg-purple{
+  background-color: #008000;
+  color: #FFF;
+}
+.navbar-custom, .navbar-toggle{
+  border-color: transparent !important;
+  color: #FFF;
+}
+.navbar li a, .navbar .navbar-brand{
+  color: #FFF !important;
+}
+.navbar-nav li a:hover, .navbar-nav li.active a{
+  color: grey !important;
+  opacity: 0.5;
+}
+a:hover,a:visited{
+  text-decoration: none;
+  color: "grey";
+}
+body{
+  padding-top:70px;
+}
+footer{
+  margin: 50px 0;
+}

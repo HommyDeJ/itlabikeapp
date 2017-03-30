@@ -1,0 +1,7 @@
+.scroll-div{
+  height:50%;
+  overflow-y:auto;
+}
+.bs-shad-user{
+  box-shadow: 10px 15px 5px 2px grey;
+}
